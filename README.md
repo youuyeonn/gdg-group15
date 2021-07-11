@@ -10,6 +10,8 @@
 
 
 ## 기능 상세 
+### API 문서
+- [Postman API Documentation](https://documenter.getpostman.com/view/15287546/Tzm6nGqX)
 ### 회원 관련 기능
 - **Github 로그인**
     - OAuth를 사용하여 Github 계정으로 로그인
