@@ -40,6 +40,8 @@
 
 ## 기술 상세
 ### Design
+- Figma
+- Illustrator
 
 ### Frontend
 - react
