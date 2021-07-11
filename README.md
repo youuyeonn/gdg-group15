@@ -42,7 +42,9 @@
 ### Design
 
 ### Frontend
-
+- react
+- react query
+- typescript
 
 
 ### Backend
